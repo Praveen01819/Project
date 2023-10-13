@@ -1,0 +1,11 @@
+This is Praveen.
+git config-- global user.email ""
+git config-- global user.name ""
+git init
+git status (working directory -> staging area)
+git add . (whole)
+git add project (specific)
+git commit -m "initail commit"
+git remote add origin git@github.com:Praveen01819/Project.git
+git log (staging area -> local repository)
+git -u push origin master
